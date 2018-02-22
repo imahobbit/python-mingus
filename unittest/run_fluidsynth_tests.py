@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 #    mingus - Music theory Python package, run_fluidsynth_tests module.
